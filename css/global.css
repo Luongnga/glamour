@@ -1,0 +1,29 @@
+/*
+	- Reset css
+	- Sharring css
+	- Embed font
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-family: arial;
+}
+a{text-decoration: none;}
+li{
+	list-style: none;
+}
+.container{
+	width: 1170px;
+	margin: auto;
+}
+.clear{
+	clear: both;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+}

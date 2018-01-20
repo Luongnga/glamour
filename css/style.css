@@ -1,0 +1,21 @@
+/* Website css */
+.wrap{
+	
+}
+/* ==========HEADER============= */
+.header{
+	background: violet;
+	height: 100px;
+}
+.header .hotline{
+	background: blue;
+}
+.header .hotline a{
+	color: yellow;
+}
+
+/* ==========MAIN============= */
+
+
+
+/* ==========FOOTER============= */
